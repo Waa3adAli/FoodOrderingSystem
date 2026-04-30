@@ -39,7 +39,6 @@ The system also supports restaurant owners in managing menus and orders, while a
 
 ## 🗂 Project Structure
 
-FoodOrderingSystem/
 ├── src/
 │   └── foodorderingsystem/
 │       ├── LoginForm.java
